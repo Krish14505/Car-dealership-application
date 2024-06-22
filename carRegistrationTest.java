@@ -21,10 +21,10 @@ public class carRegistrationTest {
 	  System.out.println("Enter the base price of the car:- ");
 	  double basePrice = sc.nextDouble();
 	     
-	  System.out.println("Enter the upgrade coeffcient:- ");
+	  System.out.println("Enter the upgrade coeffcient(between 1 and 2):- ");
 	  double upgradeCoffcient = sc.nextDouble();
 	  
-	  System.out.println("Enter the color index:- ");
+	  System.out.println("Enter the color index(0(default) to 5000):- ");
 	  double  colorIndex = sc.nextDouble();
 	  
 	  // taking input of the customer details
