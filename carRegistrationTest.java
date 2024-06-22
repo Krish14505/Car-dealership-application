@@ -63,6 +63,7 @@ public class carRegistrationTest {
 	   
 	   //Calling a method to display all the information details of the customer
 	   
+	   System.out.println("=====================================================");
 	   registration1.displayCustomerInfo();
 	 
 	   
